@@ -31,6 +31,8 @@
     ".NETCoreApp,Version=v3.1": {
       "Shop.Api/1.0.0": {
         "dependencies": {
+          "Shop.DataModels": "1.0.0",
+          "Shop.Logic": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -319,6 +321,22 @@
         },
         "compile": {
           "Shop.Api.dll": {}
+        }
+      },
+      "Shop.DataModels/1.0.0": {
+        "runtime": {
+          "Shop.DataModels.dll": {}
+        },
+        "compile": {
+          "Shop.DataModels.dll": {}
+        }
+      },
+      "Shop.Logic/1.0.0": {
+        "runtime": {
+          "Shop.Logic.dll": {}
+        },
+        "compile": {
+          "Shop.Logic.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2017,6 +2035,16 @@
   },
   "libraries": {
     "Shop.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shop.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shop.Logic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

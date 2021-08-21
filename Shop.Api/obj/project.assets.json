@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Shop.DataModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Shop.DataModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.DataModels.dll": {}
+        }
+      },
+      "Shop.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Shop.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Logic.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Shop.DataModels/1.0.0": {
+      "type": "project",
+      "path": "../Shop.DataModels/Shop.DataModels.csproj",
+      "msbuildProject": "../Shop.DataModels/Shop.DataModels.csproj"
+    },
+    "Shop.Logic/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Logic/Shop.Logic.csproj",
+      "msbuildProject": "../Shop.Logic/Shop.Logic.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Shop.DataModels >= 1.0.0",
+      "Shop.Logic >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Musa\\.nuget\\packages\\": {},
@@ -38,7 +73,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Programming\\VS\\Blazor\\ShoppingCart\\Shop.DataModels\\Shop.DataModels.csproj": {
+              "projectPath": "C:\\Programming\\VS\\Blazor\\ShoppingCart\\Shop.DataModels\\Shop.DataModels.csproj"
+            },
+            "C:\\Programming\\VS\\Blazor\\ShoppingCart\\Shop.Logic\\Shop.Logic.csproj": {
+              "projectPath": "C:\\Programming\\VS\\Blazor\\ShoppingCart\\Shop.Logic\\Shop.Logic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

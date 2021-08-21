@@ -1,0 +1,10 @@
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\bin\Debug\netcoreapp3.1\Shop.DataModels.deps.json
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\bin\Debug\netcoreapp3.1\Shop.DataModels.dll
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\bin\Debug\netcoreapp3.1\Shop.DataModels.pdb
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.csproj.AssemblyReference.cache
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.AssemblyInfoInputs.cache
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.AssemblyInfo.cs
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.csproj.CoreCompileInputs.cache
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.dll
+C:\Programming\VS\Blazor\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.pdb

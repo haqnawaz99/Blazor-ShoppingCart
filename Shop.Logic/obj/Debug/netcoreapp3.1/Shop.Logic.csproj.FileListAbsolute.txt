@@ -1,0 +1,10 @@
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\bin\Debug\netcoreapp3.1\Shop.Logic.deps.json
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\bin\Debug\netcoreapp3.1\Shop.Logic.dll
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\bin\Debug\netcoreapp3.1\Shop.Logic.pdb
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\obj\Debug\netcoreapp3.1\Shop.Logic.csproj.AssemblyReference.cache
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\obj\Debug\netcoreapp3.1\Shop.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\obj\Debug\netcoreapp3.1\Shop.Logic.AssemblyInfoInputs.cache
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\obj\Debug\netcoreapp3.1\Shop.Logic.AssemblyInfo.cs
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\obj\Debug\netcoreapp3.1\Shop.Logic.csproj.CoreCompileInputs.cache
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\obj\Debug\netcoreapp3.1\Shop.Logic.dll
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Logic\obj\Debug\netcoreapp3.1\Shop.Logic.pdb

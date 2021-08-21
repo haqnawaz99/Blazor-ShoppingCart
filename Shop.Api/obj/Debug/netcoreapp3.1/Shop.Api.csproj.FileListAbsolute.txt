@@ -19,3 +19,8 @@ C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\obj\Debug\netcoreapp3.1\Shop.Api.
 C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\obj\Debug\netcoreapp3.1\Shop.Api.dll
 C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\obj\Debug\netcoreapp3.1\Shop.Api.pdb
 C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\obj\Debug\netcoreapp3.1\Shop.Api.genruntimeconfig.cache
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\bin\Debug\netcoreapp3.1\Shop.DataModels.dll
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\bin\Debug\netcoreapp3.1\Shop.Logic.dll
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\bin\Debug\netcoreapp3.1\Shop.DataModels.pdb
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\bin\Debug\netcoreapp3.1\Shop.Logic.pdb
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Api\obj\Debug\netcoreapp3.1\Shop.Api.csproj.CopyComplete

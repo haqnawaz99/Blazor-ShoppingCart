@@ -305,6 +305,16 @@
         "runtime": {
           "lib/net5.0/System.Net.Http.Json.dll": {}
         }
+      },
+      "Shop.DataModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Shop.DataModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.DataModels.dll": {}
+        }
       }
     },
     "net5.0/browser-wasm": {
@@ -610,6 +620,16 @@
         },
         "runtime": {
           "lib/net5.0/System.Net.Http.Json.dll": {}
+        }
+      },
+      "Shop.DataModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Shop.DataModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.DataModels.dll": {}
         }
       }
     }
@@ -1135,12 +1155,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Shop.DataModels/1.0.0": {
+      "type": "project",
+      "path": "../Shop.DataModels/Shop.DataModels.csproj",
+      "msbuildProject": "../Shop.DataModels/Shop.DataModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 5.0.9",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 5.0.9",
+      "Shop.DataModels >= 1.0.0",
       "System.Net.Http.Json >= 5.0.0"
     ]
   },
@@ -1175,7 +1201,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Programming\\VS\\Blazor\\ShoppingCart\\Shop.DataModels\\Shop.DataModels.csproj": {
+              "projectPath": "C:\\Programming\\VS\\Blazor\\ShoppingCart\\Shop.DataModels\\Shop.DataModels.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

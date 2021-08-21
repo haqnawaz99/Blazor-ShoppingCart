@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Shop.DataModels\Shop.DataModels.csproj" />
+    <ProjectReference Include="..\Shop.Logic\Shop.Logic.csproj" />
   </ItemGroup>
 
 

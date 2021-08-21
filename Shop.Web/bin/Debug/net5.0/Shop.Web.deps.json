@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Shop.Web/1.0.0": {
         "dependencies": {
+          "Shop.DataModels": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -322,6 +323,14 @@
         },
         "compile": {
           "Shop.Web.dll": {}
+        }
+      },
+      "Shop.DataModels/1.0.0": {
+        "runtime": {
+          "Shop.DataModels.dll": {}
+        },
+        "compile": {
+          "Shop.DataModels.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2026,6 +2035,11 @@
   },
   "libraries": {
     "Shop.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shop.DataModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

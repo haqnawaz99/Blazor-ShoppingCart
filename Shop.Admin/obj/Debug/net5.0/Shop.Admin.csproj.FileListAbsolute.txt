@@ -627,3 +627,8 @@ C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\obj\Debug\net5.0\Shop.Admin.csp
 C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\obj\Debug\net5.0\Shop.Admin.dll
 C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\obj\Debug\net5.0\ref\Shop.Admin.dll
 C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\obj\Debug\net5.0\Shop.Admin.pdb
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\bin\Debug\net5.0\wwwroot\_framework\Shop.DataModels.dll.gz
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\bin\Debug\net5.0\wwwroot\_framework\Shop.DataModels.dll
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\bin\Debug\net5.0\wwwroot\_framework\Shop.DataModels.pdb
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\obj\Debug\net5.0\Shop.Admin.csproj.AssemblyReference.cache
+C:\Programming\VS\Blazor\ShoppingCart\Shop.Admin\obj\Debug\net5.0\build-gz\HZuv0u+z.gz
